@@ -11,6 +11,8 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 #### Activity 6:
 
+One thing we can say about the new UI is that the course codes and descriptions more distinct and organized with each other than the old UI. Before, the old UI has the course code, department, and course information all clumped up beside each other. The new UI organies and aligns all this information is a simple table where it can be easily accessed. 
+
 # CARTE Education Pathways
 
 ## Description
