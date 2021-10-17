@@ -3,7 +3,7 @@ Andy Xie
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 Activity 1: Screenshot of cloned repo.
-![Activity 1](/screenshots/part_1_screenshot.png)
+![Activity 1](/screenshots/part1_screenshot.png)
 
 # CARTE Education Pathways
 
