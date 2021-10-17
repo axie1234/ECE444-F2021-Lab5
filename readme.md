@@ -3,15 +3,15 @@ Andy Xie
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 #### Activity 1: Screenshot of cloned repo.
-![Activity 1](/screenshots/part1_screenshot.PNG)
+![Activity 1](/screenshots/act1_screenshot.PNG)
 
 #### Activity 2-5: Screenshot of cloned repo.
-![Activity 2](/screenshots/part2_home_screenshot.PNG)
-![Activity 5](/screenshots/part2_results_screenshot.PNG)
+![Activity 2](/screenshots/act2_home_screenshot.PNG)
+![Activity 5](/screenshots/act2_results_screenshot.PNG)
 
 #### Activity 6:
 
-One thing we can say about the new UI is that the course codes and descriptions more distinct and organized with each other than the old UI. Before, the old UI has the course code, department, and course information all clumped up beside each other. The new UI organies and aligns all this information is a simple table where it can be easily accessed. 
+One thing we can say about the new UI is that the dropdown menus and search bar more aligned and organized with each other than the old UI. Before, the old UI has the dropdown menus for the division, department, and campus all clumped up beside each other. The new UI aligns all these tools with a defined border and is now much easier for the user to distinguish. 
 
 # CARTE Education Pathways
 
