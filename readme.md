@@ -2,6 +2,8 @@ Andy Xie
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+The screenshots and the answer to Activity 6 is in the styling-practice branch.
+
 # CARTE Education Pathways
 
 ## Description
